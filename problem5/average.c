@@ -2,7 +2,7 @@
 
 int main(void) {
     int num_readings;
-    int total;
+    int total = 0;
 
     scanf("%d", &num_readings);
 
